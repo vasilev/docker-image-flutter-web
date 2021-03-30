@@ -1,7 +1,12 @@
 # docker-image-flutter-web
-Fun Flutter Web SDK interactively in isolated environment.
+Run Flutter Web SDK interactively in isolated offline environment.
 
 *Currently beta*
+
+Build:
+```
+docker build -t flutterweb .
+```
 
 Run:
 ```
